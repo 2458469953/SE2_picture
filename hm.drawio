@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T02:13:46.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Wuiz5WoptfjQcjuYbINf" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T03:14:58.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="K_etqWRnu6wwPBKrwUMz" version="24.3.0" type="github">
   <diagram name="第 1 页" id="Z2feuIrGMQaKYotuqINe">
     <mxGraphModel dx="1402" dy="935" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,6 +175,158 @@
         </mxCell>
         <mxCell id="d0WVinOz0NllohWS_fRl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="1" source="d0WVinOz0NllohWS_fRl-11" target="YAOU13rI1jtthDPteihQ-66">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-39" value="BlueWhale产品结构图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="21" y="726" width="133" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-40" value="优惠券" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="268" y="848" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-40" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88" y="778" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-42" value="订单" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="154" y="848" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-42" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="813" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-44" value="用户" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="845" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88" y="790" as="sourcePoint" />
+            <mxPoint x="-143" y="846" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-26" y="812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-46" value="商店" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="846.5" width="99" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-46" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="811" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-48" value="商品" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="848" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="87" y="809.5" as="sourcePoint" />
+            <mxPoint x="87" y="846.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="87" y="838.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-51" value="注册&amp;amp;登录" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="943" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-51" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-144" y="905" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-53" value="个人信息页面" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="943" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-53" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-144" y="923" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-55" value="创建商店" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1047" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-55" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="908" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-57" value="个人商店" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="1047" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-57" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-83" y="1022" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-59" value="商店列表" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1047" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-59" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-21" y="1020" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="47" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-61" value="商店详情" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="1047" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-62" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-61" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="26" y="1021" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-63" value="商品详情" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="35" y="930" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-63" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="908" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-65" value="订单列表" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="140" y="930" width="83.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-65" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="908" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-69" value="订单详情" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="229" y="930" width="78" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-69" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="919" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="252" y="919" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-71" value="创建优惠券" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="196" y="1118" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="d0WVinOz0NllohWS_fRl-71" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="908" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-73" value="优惠券列表" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="336" y="1118" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0WVinOz0NllohWS_fRl-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="d0WVinOz0NllohWS_fRl-73" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="1015" as="sourcePoint" />
+            <mxPoint x="389" y="1136" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="366" y="1015" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
