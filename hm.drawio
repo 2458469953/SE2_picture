@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T08:01:29.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="uDJ3LmZzo53KAl1O52SG" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T08:09:08.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="fKxjCq7e5mba3jSrivQB" version="24.4.9" type="github">
   <diagram name="第 1 页" id="Z2feuIrGMQaKYotuqINe">
-    <mxGraphModel dx="2056" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2658" dy="1435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,15 @@
         <mxCell id="YAOU13rI1jtthDPteihQ-62" value="创建全局优惠券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YAOU13rI1jtthDPteihQ-5" vertex="1">
           <mxGeometry x="9.5" y="416" width="70" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="ks-0bKtOijMNZIq3UDjD-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YAOU13rI1jtthDPteihQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="327" as="sourcePoint" />
+            <mxPoint x="75" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks-0bKtOijMNZIq3UDjD-25" value="查看下载报表、数据分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="YAOU13rI1jtthDPteihQ-5">
+          <mxGeometry x="16" y="608" width="70" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="YAOU13rI1jtthDPteihQ-6" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2" y="-278" width="118" height="896" as="geometry" />
         </mxCell>
@@ -144,6 +153,9 @@
         </mxCell>
         <mxCell id="d0WVinOz0NllohWS_fRl-34" value="查看评价" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="YAOU13rI1jtthDPteihQ-4" vertex="1">
           <mxGeometry x="14" y="820" width="77" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ks-0bKtOijMNZIq3UDjD-24" value="查看下载报表、数据分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="YAOU13rI1jtthDPteihQ-4">
+          <mxGeometry x="21" y="533" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="YAOU13rI1jtthDPteihQ-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3333;" parent="1" source="YAOU13rI1jtthDPteihQ-28" target="YAOU13rI1jtthDPteihQ-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -582,7 +594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d0WVinOz0NllohWS_fRl-198" value="评分" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="169" y="1666" width="64" height="36" as="geometry" />
+          <mxGeometry x="169" y="1664" width="30" height="38" as="geometry" />
         </mxCell>
         <mxCell id="d0WVinOz0NllohWS_fRl-199" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="1" target="d0WVinOz0NllohWS_fRl-198" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -806,6 +818,21 @@
         </mxCell>
         <mxCell id="ks-0bKtOijMNZIq3UDjD-5" value="数据分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="291" y="846.5" width="119.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks-0bKtOijMNZIq3UDjD-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226" y="1666" as="sourcePoint" />
+            <mxPoint x="226" y="1641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks-0bKtOijMNZIq3UDjD-20" value="赞" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1664.5" width="30" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ks-0bKtOijMNZIq3UDjD-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAOU13rI1jtthDPteihQ-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="208" y="241" as="sourcePoint" />
+            <mxPoint x="-125" y="254" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
